@@ -1,3 +1,4 @@
+<img src="[URL_da_Imagem](https://br.pinterest.com/pin/901423681658685591/)" alt="Texto Alternativo">
 # 👋 Olá, me chamo Mateus de Freitas Invernisi
 
 ## 💼 Perfil Profissional
