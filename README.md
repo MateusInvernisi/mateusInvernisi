@@ -23,8 +23,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-{mateusinvernisi@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mateusinvernisi@gmail.com})
+![Gmail Badge](https://img.shields.io/badge/-{Gmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{mateusinvernisi@gmail.com})
 [![Linkedin: mateus](https://img.shields.io/badge/-MateusInvernisi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusinvernisi/)](https://www.linkedin.com/in/mateusinvernisi/)
+
 ![mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=dark) <br><br>
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
