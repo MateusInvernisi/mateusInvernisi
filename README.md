@@ -1,4 +1,4 @@
-<img src="imagem.gif" alt="erro 404">
+<img src="imagem.gif" alt="imagem">
 # 👋 Olá, me chamo Mateus de Freitas Invernisi
 
 ## 💼 Perfil Profissional
