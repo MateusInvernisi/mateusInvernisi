@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif" alt="Texto Alternativo">
+<img src="imagem.gif" alt="erro 404">
 # 👋 Olá, me chamo Mateus de Freitas Invernisi
 
 ## 💼 Perfil Profissional
