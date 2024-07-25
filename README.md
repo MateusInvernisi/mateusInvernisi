@@ -1,4 +1,4 @@
-<img src="[URL_da_Imagem](https://br.pinterest.com/pin/901423681658685591/)" alt="Texto Alternativo">
+![Logo da Minha Empresa]([https://exemplo.com/logo.png](https://cdn.dribbble.com/users/1294594/screenshots/5460287/media/8b4786572205a8ac7305403f5e495c81.gif)
 # 👋 Olá, me chamo Mateus de Freitas Invernisi
 
 ## 💼 Perfil Profissional
